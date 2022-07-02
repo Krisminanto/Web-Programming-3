@@ -4,7 +4,7 @@
 
 <p align='center'>Ini adalah aplikasi web yang dibuat berdasarkan modul materi Web Programming III Universitas Bina Sarana Informatika, dengan menggunakan framework Codeigniter 3.</p>
 
-<p align='center'>Projek ini dibuat untuk memenuhi tugas Web Programming III Pertemuan 6 - 12.</p>
+<p align='center'>Projek ini dibuat untuk memenuhi tugas Web Programming III.</p>
 
 <br>
 <br>
