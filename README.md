@@ -8,4 +8,10 @@
 
 <br>
 <br>
-<h2 align='center'> Thank you </h2>
+<h2 align='center'> Nama   : Krisminanto Tri Setiawan </h2>
+<h2 align='center'> Nim    : 19200492 </h2>
+<h2 align='center'> Kelas  : 19.4A.07 </h2>
+<h2 align='center'> Tugas mandiri web programming III </h2>
+
+
+
